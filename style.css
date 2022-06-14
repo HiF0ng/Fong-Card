@@ -179,7 +179,7 @@ html {
 
 .logo-icon {
     position: absolute;
-    height: 26px;
+    height: 24px;
     margin: auto auto;
     top: 0;
     bottom: 0;
@@ -202,7 +202,7 @@ html {
     height: 116px;
 }
 
-.contact-info {
+.section {
     position: relative;
     display: flex;
     width: 284px;
