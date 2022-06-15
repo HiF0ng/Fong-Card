@@ -219,3 +219,17 @@ html {
     top: 76px;
 }
 
+.resume {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 12px;
+    font-weight: 530;
+    text-align: center;
+    line-height: center;
+    align-items: center;
+}
+.resume:hover {
+    text-decoration: none;
+    color: white;
+}
